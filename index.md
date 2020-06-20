@@ -9,3 +9,5 @@ Kuzco is the main character and protagonist in The Emperor's New Groove, which h
 * deeply into waterslides
 
 > Don't tell me. We're about to go over a huge waterfall.
+
+<img src="https://upload.wikimedia.org/wikipedia/en/6/69/Grooveposter.jpg"/>
