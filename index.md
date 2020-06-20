@@ -7,3 +7,5 @@ Kuzco is the main character and protagonist in The Emperor's New Groove, which h
 * selfish to a laughable degree
 * dances like a demigod
 * deeply into waterslides
+
+> Don't tell me. We're about to go over a huge waterfall.
